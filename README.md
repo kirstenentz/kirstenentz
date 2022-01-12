@@ -1,5 +1,8 @@
 # **Welcome!**
-👋 Hi, I’m @kirstenentz (Honours Chemistry Co-op IV). I'm currently doing my fourth year thesis in the Adronov Group working on a thin-film drug delivery project. 
+👋 Hi, I’m @kirstenentz (she/her, Honours Chemistry Co-op IV). I'm currently doing my fourth year thesis in the Adronov Group working on a thin-film drug delivery project. 
+
+![Small_Image](https://user-images.githubusercontent.com/97554569/149051148-5426e20c-8f8b-4aa4-b947-1cde99efc55a.jpeg)
+
 - 👀 My interests & hobbies include:
      - Spending time in nature (hiking)
      - Cooking & baking
