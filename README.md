@@ -9,7 +9,7 @@
      - Reading
      - Astronomy
      - Going to the gym (especially playing squash!)
-- :closed_book: I'm currently taking medicinal chemistry, abnormal psychology, and quantum chemistry courses alongside my thesis project.
+- :closed_book: I'm currently taking medicinal chemistry, broadway and the popular song, and quantum chemistry courses alongside my thesis project.
 - 📫 How to reach me ... Email entzk@mcmaster.ca, or use MicrosoftTeams to chat!
 
 I'm looking forward to learning how to use GitHub!
